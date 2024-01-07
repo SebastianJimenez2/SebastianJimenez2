@@ -29,4 +29,4 @@
 
 <hr>
 
-If you want to collab with me, here's my e-mail: <a href="alejandrosj159@hotmail.com"><img width="45px" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Symbol.png" alt="E-mail"/></a>
+If you want to collab with me, here's my e-mail: <a href="mailto:alejandrosj159@hotmail.com"><img width="45px" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Symbol.png" alt="E-mail"/></a>
