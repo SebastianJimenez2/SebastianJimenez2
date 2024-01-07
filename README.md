@@ -18,9 +18,9 @@
 
 <img align="right" height="175px" style="margin-right:40px; margin-left:40px" alt="Dr Strange" src="https://lh3.googleusercontent.com/hDWuR5LksjYRcNQOnZR7lp4gubL-Qh6460BiVsU_5nJVguDeT_2vHSYOqvpbrgyMwUdLso4bi3KRPxYDI03E2uLnbm2DVdAvtkSkQtc=w600"/>
 
--   👤 I'm not an expert, but I'm trying to be one.
--   💻 I want to and I'm gonna be an Ethical Hacker.
--   👾 My favorite game is Mario Kart Tour.  <img width="20px" src="https://66.media.tumblr.com/361bf10ee73d0fdffc57fd18312cfe03/tumblr_mfbf942qym1rfjowdo1_500.gif" alt="yochi"/>
+-   👤 I'm not an expert (yet), but I'm going to be one.
+-   💻 Lately I'm so into  being a full stack developer.
+-   👾 My favorite game is Geometry Dash.  <img width="20px" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/31073475fc4fe0f27c6b876472f0888e.png" alt="GD"/>
 -   🏯 As you can see, my favorite avenger is Dr. Strange.
 
 <hr>
@@ -29,6 +29,4 @@
 
 <hr>
 
-If you want to ruin your company contact me through my email: <a href="alejandro.jimenez@epn.edu.ec"><img width="45px" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Symbol.png" alt="E-mail"/></a>
-
-<img align="right" height="150px" alt="Dr Strange" src="https://www.nicepng.com/png/full/139-1390846_vectores-lineas-png-vectores-de-lineas-decorativas-png.png"/>
+If you want to collab with me, here's my e-mail: <a href="alejandrosj159@hotmail.com"><img width="45px" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Symbol.png" alt="E-mail"/></a>
