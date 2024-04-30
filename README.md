@@ -1,9 +1,5 @@
 <hr>
 
-<img align="left" width="90px" alt="EPN Logo" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Escudo_de_la_Escuela_Polit%C3%A9cnica_Nacional.png"/>
-
-<img align="right" width="100px" alt="FIS Logo" src="https://fis.epn.edu.ec/images/logo-FIS-sin-fondo.png"/>
-
 <h3 align= "center">
   Hi there! I'm Sebastian
   <br>
@@ -19,7 +15,7 @@
 <img align="right" height="175px" style="margin-right:40px; margin-left:40px" alt="Dr Strange" src="https://lh3.googleusercontent.com/hDWuR5LksjYRcNQOnZR7lp4gubL-Qh6460BiVsU_5nJVguDeT_2vHSYOqvpbrgyMwUdLso4bi3KRPxYDI03E2uLnbm2DVdAvtkSkQtc=w600"/>
 
 -   👤 I'm not an expert (yet), but I'm going to be one.
--   💻 Lately I'm so into  being a full stack developer.
+-   💻 Lately, I'm so into being a full stack developer.
 -   👾 My favorite game is Geometry Dash.  <img width="20px" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/31073475fc4fe0f27c6b876472f0888e.png" alt="GD"/>
 -   🏯 As you can see, my favorite avenger is Dr. Strange.
 
