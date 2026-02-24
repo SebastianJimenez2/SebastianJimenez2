@@ -2,7 +2,8 @@
 <h3 align= "center">
   Hi there! I'm Alejandro
   <br>
-  <img height="80px" alt="Random guy typing" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" >
+  <br>
+  <img height="100px" alt="Random guy typing" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" >
 </h3>
 
 <p align="center">
