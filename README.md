@@ -16,11 +16,11 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       As a Doctor Strange fan, I tend to analyze all 14,000,605 possible futures for a project...
       just to code the only one where there are no bugs in production. 🌌✨
     </td>
-    <td width="140" align="center">
+    <td width="140" align="center" valign="top">
       <img height="100" alt="Dr Strange"
         src="https://lh3.googleusercontent.com/hDWuR5LksjYRcNQOnZR7lp4gubL-Qh6460BiVsU_5nJVguDeT_2vHSYOqvpbrgyMwUdLso4bi3KRPxYDI03E2uLnbm2DVdAvtkSkQtc=w600">
     </td>
