@@ -2,8 +2,7 @@
 <h3 align= "center">
   Hi there! I'm Alejandro
   <br>
-  <br>
-  <img height="100px" alt="Random guy typing" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" >
+  <img height="80px" alt="Random guy typing" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" >
 </h3>
 
 <p align="center">
@@ -37,6 +36,19 @@ I navigate fluently between Frontend and Backend, choosing the best tools for ea
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Testing](https://img.shields.io/badge/TDD/BDD-yellowgreen?style=for-the-badge&logo=testing-library&logoColor=white)
+
+
+### 🔍 Research & Specialized Tools
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 🚀 Work Philosophy
 
