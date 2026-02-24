@@ -1,31 +1,17 @@
-<div align="center">
-  <h3>
-    Hi there! I'm Alejandro
-    <br>
-    <img height="80" alt="Random guy typing"
-      src="https://media.baamboozle.com/uploads/images/524352/1654869338_333541_gif-url.gif">
-  </h3>
+<hr>
+<h3 align= "center">
+  Hi there! I'm Alejandro
+  <br>
+  <img height="80px" alt="Random guy typing" src="https://media.baamboozle.com/uploads/images/524352/1654869338_333541_gif-url.gif" >
+</h3>
 
-  <p>
-    I'm a <strong>Software Engineer</strong> and Full Stack Developer graduated from the
-    <strong>Escuela Politécnica Nacional</strong> - Quito, Ecuador 🇪🇨
-  </p>
-</div>
-
+<p align="center">
+  I'm a <strong>Software Engineer</strong> and Full Stack Developer graduated from the
+  <strong>Escuela Politécnica Nacional</strong> - Quito, Ecuador 🇪🇨
+</p>
 <hr>
 
-<table>
-  <tr>
-    <td valign="top">
-      As a Doctor Strange fan, I tend to analyze all 14,000,605 possible futures for a project...
-      just to code the only one where there are no bugs in production. 🌌✨
-    </td>
-    <td width="140" align="center" valign="top">
-      <img height="100" alt="Dr Strange"
-        src="https://lh3.googleusercontent.com/hDWuR5LksjYRcNQOnZR7lp4gubL-Qh6460BiVsU_5nJVguDeT_2vHSYOqvpbrgyMwUdLso4bi3KRPxYDI03E2uLnbm2DVdAvtkSkQtc=w600">
-    </td>
-  </tr>
-</table>
+As a **Doctor Strange** fan, I tend to analyze all 14,000,605 possible futures for a project... just to code the only one where there are no bugs in production. 🌌✨
 
 ## 🛠️ My Tech Multiverse
 
