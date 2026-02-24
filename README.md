@@ -2,7 +2,7 @@
 <h3 align= "center">
   Hi there! I'm Alejandro
   <br>
-  <img height="80px" alt="Random guy typing" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For68a2tqrbm5t5d36bwa.gif" >
+  <img height="270px" alt="Random guy typing" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For68a2tqrbm5t5d36bwa.gif" >
 </h3>
 
 <p align="center">
