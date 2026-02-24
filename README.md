@@ -56,15 +56,11 @@ I navigate fluently between Frontend and Backend, choosing the best tools for ea
 * 🎮 When I'm not typing code, you'll find me sharpening my reflexes and patience dodging spikes in **Geometry Dash**. (If you can beat a *Demon* level, you can fix any bug).
 * 🦸‍♂️ In case you didn't notice, my favorite superhero is **Doctor Strange**.
 
----
-
 ## 📊 My data
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianJimenez2&theme=tokyonight&hide_border=true" alt="Sebastián's GitHub Streak" />
 </div>
-
----
 
 ## 📫 Let's Connect!
 
